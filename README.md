@@ -118,7 +118,8 @@ A successful RDP session was established with the Windows workstation.
 
 This step helped establish normal authentication activity before performing the controlled authentication testing.
 
-<img width="1917" height="991" alt="04-Verify RDP Connectivity" src="https://github.com/user-attachments/assets/25f055bc-bedb-42f0-921a-cb4ef3a5380b" />
+<img width="1917" height="991" alt="04 -Verify RDP Connectivity" src="https://github.com/user-attachments/assets/1083b97a-4d07-4a5e-af70-70de35ba220b" />
+
 
 ## Step 5 - Investigate Event ID 4624
 
@@ -132,7 +133,8 @@ The logon type was reviewed to determine how the authentication occurred.
 
 The source-related information was also reviewed where available.
 
-<img width="1318" height="762" alt="05-Event ID 4624 Part 1" src="https://github.com/user-attachments/assets/5cb14c42-03dd-45fb-9cb9-c9f7de99080a" />
+<img width="1318" height="762" alt="05-Event ID 4624" src="https://github.com/user-attachments/assets/c5f6b5cb-8229-44a8-9225-b41ea80661bd" />
+
 
 A successful RDP authentication event was observed with:
 
