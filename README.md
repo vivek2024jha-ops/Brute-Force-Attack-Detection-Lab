@@ -143,9 +143,10 @@ A successful RDP authentication event was observed with:
 * Target: Windows workstation
 * Account: abc
 
-<img width="1062" height="742" alt="05-Event ID 4624 Logon Type" src="https://github.com/user-attachments/assets/8900a893-74ef-45d8-a898-933be4c26fec" />
+<img width="1062" height="742" alt="05-Event ID 4624 Logon Type" src="https://github.com/user-attachments/assets/9631b989-5505-4abc-98b7-e8bbdce08234" />
 
-<img width="1032" height="731" alt="05-Event ID 4624 IP Address" src="https://github.com/user-attachments/assets/0bb5c70a-97f6-4e43-9f79-478ac9c1db0c" />
+<img width="1032" height="731" alt="05-Event ID 4624 IP Address" src="https://github.com/user-attachments/assets/230d5de3-91c2-4ec0-ab30-909c88026558" />
+
 
 Logon Type 10 represents a Remote Interactive Logon and is commonly associated with Remote Desktop Services.
 
